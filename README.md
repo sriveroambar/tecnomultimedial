@@ -8,15 +8,15 @@ Porque lo que más le gustaba a Karen era bailar, cosa que hacía continuamente.
 
 Al morir su madre, una atesorada señora acogió a la niña y la cuidó como si fuera hija suya. Cuando llegó el momento de su puesta de largo, la llamó a su presencia:
 
-- Ve y cómprate calzado adecuado para la ocasión.
+-Ve y cómprate calzado adecuado para la ocasión-
 
-- Le dijo su benefactora alargándole el dinero.
+Le dijo su benefactora alargándole el dinero.
 
 Pero Karen, desobedeciendo, y aprovechando que la vieja dama no veía muy bien, encargó a la zapatera un par de zapatos rojos de baile. El día de la celebración, todo el mundo miraba los zapatos rojos de Karen.
 
 Incluso alguien hizo notar a la anciana mujer que no estaba bien visto que una muchachita empleara ese tono en el calzado. La mujer, enfadada con Karen por haber desobedecido, la reprendió allí mismo:
 
-- Eso es coquetería y vanidad, Karen, y ninguna de esas cualidades te ayudará nunca.
+-Eso es coquetería y vanidad, Karen, y ninguna de esas cualidades te ayudará nunca-
 
 Sin embargo, la niña aprovechaba cualquier ocasión para lucirlos. La pobre señora murió al poco tiempo y se organizó el funeral. Como había sido una persona muy buena, llegó gente de todas partes para celebrar el funeral.
 
