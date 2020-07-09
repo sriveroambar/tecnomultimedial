@@ -1,59 +1,64 @@
-Mi historia está basada en el cuento "Las zapatillas rojas" de  Hans Christian Andersen, con un pequeño ajuste moderno del final.
-Tiene 10 pantallas, y tres posibles desarrollos o finales dentro de la historia. 
-Dejo el cuento con el nuevo final: 
+Pantalla 0
+Pantalla de inicio
+Botón de empezar el juego, botón de créditos 
 
-"Hace mucho, mucho tiempo, vivía una hermosa niña que se llamaba Karen. Su familia era muy pobre, así que no podía comprarle aquello que ella deseaba por encima de todas las cosas: unas zapatillas de baile de color rojo.
+Pantalla 1 
+Historia: "Hace mucho, mucho tiempo, vivía una hermosa niña que se llamaba Karen. Su familia era muy pobre, así que no podía comprarle aquello que ella deseaba por encima de todas las cosas: unas zapatillas de baile de color rojo"
+Descripción: Las zapatillas rojas en primer plano.
 
-Porque lo que más le gustaba a Karen era bailar, cosa que hacía continuamente. A menudo se imaginaba a sí misma como una estrella del baile, recibiendo felicitaciones y admiración de todo el mundo.
+Pantalla 2
+Historia: "La madre de Karen siendo tan pobre nunca pudo comprarle las zapatillas a su hija. Lo que más le gustaba a Karen era bailar, cosa que hacía continuamente. A menudo se imaginaba a sí misma como una estrella del baile, recibiendo felicitaciones y admiración de todo el mundo. Al morir su madre, una atesorada señora acogió a la niña y la cuidó como si fuera hija suya.
+Descripción: Imagen de la cuidadora de Karen al recibirla, y ella dejando atrás su hogar conocido.
 
-Al morir su madre, una atesorada señora acogió a la niña y la cuidó como si fuera hija suya. Cuando llegó el momento de su puesta de largo, la llamó a su presencia:
+Pantalla 3
+Historia: "Su madre hace el último esfuerzo por su hija y decide regalarle las zapatillas, utilizando todos sus ahorros. Esto desemboca en las dos viviendo en la calle, para finalmente morir de frío".
+Descripción: Imagen de una mujer llorando en una ciudad de nieve. 
 
--Ve y cómprate calzado adecuado para la ocasión-
+Pantalla 4
+Historia: "Es momento de la presentación a la sociedad de Karen. Su benefactora la llama aparte y le da alarga dinero para que se compre unos zapatos para la ocasión. Karen debe escoger si comprar unos modestos o por fin adquirir las zapatillas rojas que tanto quiso"
+Descripcón: "Karen alrededor de un grupo de personas"
 
-Le dijo su benefactora alargándole el dinero.
+Pantalla 5
+Historia: "Karen decide optar por la opción modesta y comportarse frente a su benefactora, asiste a la presentación social con zapatos adecuados"
+Descripción: Primer plano de los zapatos y Karen decepcionada"
 
-Pero Karen, desobedeciendo, y aprovechando que la vieja dama no veía muy bien, encargó a la zapatera un par de zapatos rojos de baile. El día de la celebración, todo el mundo miraba los zapatos rojos de Karen.
+Pantalla 6
+Historia: "Karen, desobedeciendo, y aprovechando que la vieja dama no veía muy bien, encargó a la zapatera un par de zapatos rojos de baile. El día de la celebración, todo el mundo miraba los zapatos rojos de Karen"
+Descripción: Karen y las zapatillas rojas en primer plano.
 
-Incluso alguien hizo notar a la anciana mujer que no estaba bien visto que una muchachita empleara ese tono en el calzado. La mujer, enfadada con Karen por haber desobedecido, la reprendió allí mismo:
+Pantalla 7
+Historia: "La pobre señora murió al poco tiempo y se organizó el funeral. Como había sido una persona muy buena, llegó gente de todas partes para celebrar el funeral. Cuando Karen se vestía para acudir, tuvo que decidir si utilizar zapatos adecuados o las zapatillas rojas que por fin pudo comprarse con su herencia"
+Descripción: Zapatos adecuados en primer plano
 
--Eso es coquetería y vanidad, Karen, y ninguna de esas cualidades te ayudará nunca-
+Pantalla 8
+Historia: "Karen llevó los zapatos rojos al funeral de su benefactora y un limpiabotas sospechoso le ofreció limpiarlas"
+Descripción: zapatos rojos en primer plano
 
-Sin embargo, la niña aprovechaba cualquier ocasión para lucirlos. La pobre señora murió al poco tiempo y se organizó el funeral. Como había sido una persona muy buena, llegó gente de todas partes para celebrar el funeral.
+Pantalla 9
+Historia: "Karen rechazó la oferta del limpia botas y se retiró del funeral con sus zapatos rojos, por fin a gusto con lo que decidió utilizar"
+Descripción: Karen despidiéndose y los zapatos rojos en primer plano 
 
-Cuando Karen se vestía para acudir, vio los zapatos rojos con su charol brillando en la oscuridad. Sabía que no debía hacerlo, pero, sin pensárselo dos veces, cogió las zapatillas encantadas y metió dentro sus piececitos:
+Pantalla 10
+Historia:  "Karen aceptó la oferta del limpiabotas y al salir de la iglesia, ¡Cuál sería la sorpresa de Karen al sentir un cosquilleo en los pies! Las zapatillas rojas se pusieron a bailar como poseídas por su propia música. Las gentes del pueblo, extrañadas, vieron como Karen se alejaba bailando por las plazas, los prados y los pastos. Por más que lo intentara, no había forma de soltarse los zapatos: estaban soldados a sus pies, ¡y ya no había manera de saber qué era pie y qué era zapato! Pasaron los días y Karen seguía bailando y bailando. ¡Estaba tan cansada...! y nunca se había sentido tan sola y triste..."
+Descripción: Karen puede verse bailando en el centro de la escena del limpiabotas mientras le ofrece sus servicios 
 
--¡Estaré mucho más elegante delante de todo el mundo!- se dijo. Al entrar en la iglesia, un viejo horrible y barbudo se dirigió a ella:
+Pantalla 11
+Historia: "-¡No puedo más!- gimió desesperada -¡Tengo que quitarme estos zapatos aunque para ello sea necesario que me corten los pies!-
+Karen se dirigió bailando hacia un pueblo cercano donde vivía un verdugo muy famoso por su pericia con el hacha. Cuando llegó, sin dejar de bailar y con lágrimas en los ojos gritó desde la puerta: -Por favor, matame o córtame los pies con los zapatos rojos para que pueda dejar de bailar. Pero cuando la puerta se abrió, la sorpresa de Karen fue mayúscula. El terrible verdugo no era otro que el mendigo limpiabotas que había encantado sus zapatillas rojas. Karen se preguntó qué hacer, debía matarlo o preguntarle po qué alguien haría una cosa así"
+Descripción: Karen, los zapatos y el hechicero en primer plano.
 
--¡Qué bonitos zapatos rojos de baile! ¿Quieres que te los limpie?- le dijo.
+Pantalla 12 
+Historia: "Karen se enfureció tanto que tomó un hacha y se la clavó en la frente, se calzó sus zapatillas rojas manchadas de sangre y se marchó. No dejaría que nadie más le criticara y mucho menos torturara, por cuál zapato decide calzarse, o cómo decida vestirse. Había perdido tanta gente que amaba, lo único que le quedaba ahora eran sus zapatillas rojas y sus ganas de bailar"
+Descripción: Primer plano del hacha y Karen estupefactada.
 
-Karen pensó que así los zapatos brillarían más y no hizo caso de lo que la señora siempre le había recomendado sobre el recato en el vestir. El hombre miró fijamente las zapatillas, y con un susurro y un golpe en las suelas les ordenó:
+Pantalla 13: 
+Historia: "Karen decidió preguntarle por qué haría algo así y el hechicero le responde, ahora debe decidir si huir o matarlo"
+Descripción: El hechicero y Karen, enfrentados
 
--¡Ajustaos bien cuando bailéis!
+Pantalla 14: 
+Historia: "Karen huyó con las zapatillas puestas... no hay resolución sobre qué pasará ahora con ella"
+Descripción: sólo se puede ver el halo de sus zapatos.
 
-Al salir de la iglesia, ¡Cuál sería la sorpresa de Karen al sentir un cosquilleo en los pies! Las zapatillas rojas se pusieron a bailar como poseídas por su propia música.
-
-Las gentes del pueblo, extrañadas, vieron como Karen se alejaba bailando por las plazas, los prados y los pastos. Por más que lo intentara, no había forma de soltarse los zapatos: estaban soldados a sus pies, ¡y ya no había manera de saber qué era pie y qué era zapato! Pasaron los días y Karen seguía bailando y bailando.
-
-¡Estaba tan cansada...! y nunca se había sentido tan sola y triste. Lloraba y lloraba mientras bailaba, pensando en lo tonta y vanidosa que había sido, en lo ingrata que era su actitud hacia la buena señora y la gente del pueblo que la había ayudado tanto.
-
-- ¡No puedo más!- gimió desesperada -¡Tengo que quitarme estos zapatos aunque para ello sea necesario que me corten los pies!-
-
-Karen se dirigió bailando hacia un pueblo cercano donde vivía un verdugo muy famoso por su pericia con el hacha. Cuando llegó, sin dejar de bailar y con lágrimas en los ojos gritó desde la puerta:
-
--¡Sal! ¡Sal! No puedo entrar porque estoy bailando.
-
--¿Es que no sabes quién soy? ¡Yo corto cabezas!, y ahora siento cómo mi hacha se estremece.- dijo el verdugo.
-
--Por favor, matame o córtame los pies con los zapatos rojos para que pueda dejar de bailar.
-
-Pero cuando la puerta se abrió, la sorpresa de Karen fue mayúscula. El terrible verdugo no era otro que el mendigo limpiabotas que había encantado sus zapatillas rojas.
-
--¡Qué bonitos zapatos rojos de baile!- exclamó -¡Seguro que se ajustan muy bien al bailar!- dijo guiñando un ojo a la pobre Karen
-
--Déjame verlos más de cerca...-. Pero nada más tocar el mendigo los zapatos con sus dedos esqueléticos, las zapatillas rojas se detuvieron y Karen dejó de bailar.
-
-Karen sorprendida cuestionó al hechicero por qué le haría algo tan espantoso y el hechicero respondió
-
--Estabas escandalizando a todos, niña, la coquetería y vanidad no es algo que favorezca a mujeres como tú. Con zapatillas de semejante color nunca encontrarás un buen marido-.
-
-Karen se enfureció tanto que tomó un hacha y se la clavó en la frente, se calzó sus zapatillas rojas manchadas de sangre y se marchó. No dejaría que nadie más le criticara y mucho menos torturara, por cuál zapato decide calzarse, o cómo decida vestirse. 
+Pantalla 15:
+Pantalla de créditos
+Nombre de la obra, el escritor original, la autora del trabajo y la materia.
