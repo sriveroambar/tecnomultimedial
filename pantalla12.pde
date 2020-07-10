@@ -21,7 +21,7 @@ void pantalla13() {
   void pantalla13mouseclicked() {
     //huir
   if (mouseX > 720 && mouseX < 920 && mouseY > 640 && mouseY < 1024){
-    pantalla = 15;
+    pantalla = 14;
      }
   //matarlo
    if (mouseX > 60 && mouseX < 340 && mouseY > 640 && mouseY < 700){
